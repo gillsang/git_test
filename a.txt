@@ -1,1 +1,7 @@
-dkanrjsdkaasdwf
+git 
+
+ls
+mkdir
+git init - 저장소를 초기화
+$ git remote add origin https://github.com/gillsang/git_test.git
+git remote -v
